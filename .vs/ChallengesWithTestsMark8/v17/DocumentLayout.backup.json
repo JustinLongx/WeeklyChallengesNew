@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\WeeklyChallenges\\WeeklyChallenges\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\weeklychallenges\\weeklychallenges\\challengeswithtestsmark8\\challengesset01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj|solutionrelative:challengeswithtestsmark8\\challengesset01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj|c:\\users\\justi\\onedrive\\desktop\\2024 c#\\truecoders 2024\\repo 2024\\weeklychallenges\\weeklychallenges\\challengeswithtestsmark8\\challengesset02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj|solutionrelative:challengeswithtestsmark8\\challengesset02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ChallengesSet01.cs",
-              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesSet01.cs",
-              "RelativeDocumentMoniker": "ChallengesWithTestsMark8\\ChallengesSet01.cs",
-              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesSet01.cs*",
-              "RelativeToolTip": "ChallengesWithTestsMark8\\ChallengesSet01.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAcwDsAAAAaAAAAAAAAAA==",
+              "Title": "ChallengesSet02.cs",
+              "DocumentMoniker": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesSet02.cs",
+              "RelativeDocumentMoniker": "ChallengesWithTestsMark8\\ChallengesSet02.cs",
+              "ToolTip": "C:\\Users\\justi\\OneDrive\\Desktop\\2024 C#\\TrueCoders 2024\\Repo 2024\\WeeklyChallenges\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesSet02.cs*",
+              "RelativeToolTip": "ChallengesWithTestsMark8\\ChallengesSet02.cs*",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAkwGoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T19:00:04.692Z",
+              "WhenOpened": "2024-12-30T16:23:20.952Z",
               "EditorCaption": ""
             },
             {
